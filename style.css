@@ -36,9 +36,12 @@ font-family: "Alegreya", serif;
     background-color: #1D232C;
     width: 15%;
     height: 100%;
+    left: -60%;/*So here we didnt use display block to hide the side bar we just push that into left side and when we click that three lines we have to make this 0 */
     position: fixed; /*This line keeps the side navbar in a fixed position while you scrolling*/
     padding: 20px;
     color: white;
+    transition: 2s;
+    
     
 }
 /*Side Navbar Links styling*/
@@ -50,7 +53,11 @@ font-family: "Alegreya", serif;
 {
     text-decoration: none;
     color: white;
-
+}
+.side-navbar-links a:hover
+{
+    text-decoration: underline;
+    
 }
 /*Media Query (For Mobile Responsive)*/
 @media screen and (max-width:700px) {
