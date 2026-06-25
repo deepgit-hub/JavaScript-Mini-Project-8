@@ -31,6 +31,27 @@ font-family: "Alegreya", serif;
 {
     display: none;
 }
+/*Side Navbar*/
+.side-navbar{
+    background-color: #1D232C;
+    width: 15%;
+    height: 100%;
+    position: fixed; /*This line keeps the side navbar in a fixed position while you scrolling*/
+    padding: 20px;
+    color: white;
+    
+}
+/*Side Navbar Links styling*/
+.side-navbar-link
+{
+    margin-bottom: 20px;
+}
+.side-navbar-links a
+{
+    text-decoration: none;
+    color: white;
+
+}
 /*Media Query (For Mobile Responsive)*/
 @media screen and (max-width:700px) {
     .navbar-menu-toggle
@@ -42,4 +63,3 @@ font-family: "Alegreya", serif;
     display: none;
 }
 }
-
