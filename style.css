@@ -27,3 +27,14 @@ font-family: "Alegreya", serif;
     color:#1D232C;
 
 }
+.navbar-menu-toggle
+{
+    display: none;
+}
+/*Media Query (For Mobile Responsive)*/
+@media screen and (max-width:600px) {
+    .navbar-menu-toggle
+{
+    display: block;
+}
+}
