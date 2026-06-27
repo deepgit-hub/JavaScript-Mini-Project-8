@@ -97,11 +97,43 @@ font-family: "Alegreya", serif;
     justify-content: space-between;
     align-items: center;
     gap: 10px;
+
 }
 .service-container-2 div{
     background-color: #f2f4f7;
     border-radius: 5px;
 
+}
+.best-books
+{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap; /*this is lets 2 image when the screen get small*/
+}
+.best-books-container
+{
+    position: relative;
+    flex-basis: 20%;
+    margin-top:40px;
+    padding:20px;
+}
+.best-books button{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 10px;
+    color: #1D232C;
+    position: absolute;
+    top: 50%;
+    left: 13%;
+    border-radius: 10px;
+    border:none;
+}
+.best-books img{
+    width:180px;
+    height:260px;
+    object-fit:cover;
 }
 
 /*Media Query (For Mobile Responsive)*/
