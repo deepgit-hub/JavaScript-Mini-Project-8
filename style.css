@@ -156,6 +156,13 @@ font-family: "Alegreya", serif;
     margin-bottom: 10px;
     border: none;
 }
+.footer
+{
+    margin-top: 20px;
+    padding: 40px;
+    background-color: #1D232C;
+    color: white;
+}
 /*Media Query (For Mobile Responsive)*/
 @media screen and (max-width:700px) {
     .navbar-menu-toggle
