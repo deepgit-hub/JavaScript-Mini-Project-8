@@ -29,3 +29,16 @@ Welcome to D Books, a modern and responsive Book Recommendation Website built us
  ┣ 📜 style.css
  ┣ 📜 script.js
  ┗ 📜 collection.js
+🎯 What I Learned
+
+During this project, I learned how to:
+
+✅ Build a multi-page website
+✅ Create a responsive navigation bar
+✅ Build a mobile side navigation menu
+✅ Use Flexbox for layouts
+✅ Implement a live search feature using JavaScript
+✅ Manipulate the DOM
+✅ Handle user events
+✅ Improve website responsiveness
+✅ Organize HTML, CSS, and JavaScript files effectively
