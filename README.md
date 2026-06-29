@@ -15,3 +15,9 @@ Welcome to D Books, a modern and responsive Book Recommendation Website built us
 ⭐ Modern UI with smooth layout
 🎨 Clean typography using Google Fonts
 📱 Responsive design for desktop and mobile devices
+🛠️ Technologies Used
+🌐 HTML5
+🎨 CSS3
+⚡ JavaScript (Vanilla JS)
+⭐ Font Awesome Icons
+🔤 Google Fonts
