@@ -6,7 +6,7 @@ Welcome to **D Books**, a modern and responsive **Book Recommendation Website** 
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** https://your-live-demo-link-here
+🔗 **Live Website:** (https://deepgit-hub.github.io/JavaScript-Mini-Project-8/)
 
 ---
 
