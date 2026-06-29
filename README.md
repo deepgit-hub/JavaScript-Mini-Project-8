@@ -21,3 +21,11 @@ Welcome to D Books, a modern and responsive Book Recommendation Website built us
 ⚡ JavaScript (Vanilla JS)
 ⭐ Font Awesome Icons
 🔤 Google Fonts
+📁 Project Structure
+📦 D Books
+ ┣ 📜 index.html
+ ┣ 📜 collection.html
+ ┣ 📜 contact.html
+ ┣ 📜 style.css
+ ┣ 📜 script.js
+ ┗ 📜 collection.js
