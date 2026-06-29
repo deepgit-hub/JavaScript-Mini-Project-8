@@ -78,7 +78,13 @@ font-family: "Alegreya", serif;
     background-color: #1D232C;
     color: white;
     border: none;
+    border-radius: 10px;
     
+}
+.header img{
+    border-radius: 15px;
+    border: none;
+
 }
 .service
 {
