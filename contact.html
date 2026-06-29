@@ -1,1 +1,135 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>D Books</title>
+    <!--This is Google Font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Oswald:wght@200..700&display=swap"
+      rel="stylesheet"
+    />
+    <!--This is my CSS-->
+    <link rel="stylesheet" href="style.css" />
+    <!--Font Awesome Icons-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+      integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <!--NavBar-->
+    <nav class="navbar">
+      <h1>D Books</h1>
+      <div class="navbar-links">
+        <p class="navbar-link"><a href="index.html">Home</a></p>
+        <p class="navbar-link"><a href="collection.html">Collections</a></p>
+        <p class="navbar-link"><a href="contact.html">Contact</a></p>
+      </div>
+      <!--This is the menu toggle for mobile-->
+      <div class="navbar-menu-toggle" onclick="shownavbar()">
+        <i class="fa-solid fa-bars"></i
+        ><!-- This is that 3 lines-->
+      </div>
+    </nav>
+    <!--Side NavBar-->
+    <div class="side-navbar">
+      <p style="text-align: right" onclick="closenavbar()">
+        <i class="fa-solid fa-xmark"></i>
+        <!--This is that close symbol-->
+      </p>
+      <div class="side-navbar-links">
+        <p class="side-navbar-link"><a href="index.html">Home</a></p>
+        <p class="side-navbar-link">
+          <a href="collection.html">Collections</a>
+        </p>
+        <p class="side-navbar-link"><a href="contact.html">Contact</a></p>
+      </div>
+    </div>
+    <!-- Contact Section -->
+
+    <div class="contact-page">
+      <h1>📚 Contact D Books</h1>
+
+      <p class="contact-text">
+        Have a book that changed your life? We'd love to hear about it! Help us
+        grow the D Books community by recommending your favorite books.
+      </p>
+
+      <div class="contact-card">
+        <h2>📖 Recommend Your Favorite Book</h2>
+
+        <p>
+          Instead of filling out a long form, simply send us your book
+          recommendation through WhatsApp or Email.
+        </p>
+
+        <div class="contact-info">
+          <a href="mailto:deepak2911001@gmail.com">
+            <div class="contact-item">
+              <i class="fa-solid fa-envelope"></i>
+              <span>deepak2911001@gmail.com</span>
+            </div>
+          </a>
+
+          <a href="https://wa.me/919345738927" target="_blank">
+            <div class="contact-item">
+              <i class="fa-brands fa-whatsapp"></i>
+              <span>+91 9345738927</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+      <div class="contact-card">
+        <h2>💡 Suggestions & Feedback</h2>
+
+        <p>
+          Found a bug? Have an idea to improve D Books? We'd be happy to hear
+          your suggestions.
+        </p>
+
+        <div class="contact-info">
+          <a href="mailto:deepak2911001@gmail.com">
+            <div class="contact-item">
+              <i class="fa-solid fa-envelope"></i>
+              <span>deepak2911001@gmail.com</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+      <h2 class="quote">
+        📚 "A reader lives a thousand lives before he dies."
+      </h2>
+    </div>
+    <!--Footer-->
+    <div class="footer">
+      <div class="footer-container">
+        <div class="footer-box-1">
+          <h2 class="headingText">D Books</h2>
+
+          <p>
+            Thanks for visiting our D Books Website and the main purpose of this
+            website in internet is to get the best book Recommendations
+          </p>
+
+          <div class="footer-icon-container">
+            <i class="fa-brands fa-instagram" style="color: white"></i>
+            <i class="fa-brands fa-twitter" style="color: white"></i>
+            <i class="fa-brands fa-facebook" style="color: white"></i>
+          </div>
+        </div>
+      </div>
+      <p>@ 2026 DBooks.com</p>
+    </div>
+
+    <script src="collection.js"></script>
+  </body>
+</html>
 
