@@ -52,3 +52,10 @@ During this project, I learned how to:
 📸 Preview
 
 Add screenshots of your Home, Collections, and Contact pages here.
+❤️ Thank You
+
+Thank you for visiting my project!
+
+If you like this project, don't forget to ⭐ the repository.
+
+Happy Reading! 📚✨
