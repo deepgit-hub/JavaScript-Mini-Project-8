@@ -9,3 +9,6 @@ Welcome to D Books, a modern and responsive Book Recommendation Website built us
 📖 Beautiful and responsive landing page
 📚 Book recommendation sections
 🔍 Real-time book search functionality
+📱 Mobile-friendly navigation menu
+📬 Contact page for book recommendations
+📰 Newsletter subscription section
