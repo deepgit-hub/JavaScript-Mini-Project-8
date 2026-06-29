@@ -5,3 +5,7 @@ Welcome to D Books, a modern and responsive Book Recommendation Website built us
 🚀 Live Demo
 
 🔗 Live Website: https://your-live-demo-link-here
+✨ Features
+📖 Beautiful and responsive landing page
+📚 Book recommendation sections
+🔍 Real-time book search functionality
