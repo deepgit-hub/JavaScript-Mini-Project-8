@@ -49,3 +49,6 @@ During this project, I learned how to:
 ⭐ Backend integration for recommendations
 ⭐ Database support
 ⭐ Dark mode
+📸 Preview
+
+Add screenshots of your Home, Collections, and Contact pages here.
