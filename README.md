@@ -42,3 +42,10 @@ During this project, I learned how to:
 ✅ Handle user events
 ✅ Improve website responsiveness
 ✅ Organize HTML, CSS, and JavaScript files effectively
+💡 Future Improvements
+⭐ User authentication
+⭐ Book categories
+⭐ Book reviews and ratings
+⭐ Backend integration for recommendations
+⭐ Database support
+⭐ Dark mode
